@@ -1,0 +1,15 @@
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/bin/Debug/net6.0/greet
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/bin/Debug/net6.0/greet.deps.json
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/bin/Debug/net6.0/greet.runtimeconfig.json
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/bin/Debug/net6.0/greet.dll
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/bin/Debug/net6.0/greet.pdb
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/obj/Debug/net6.0/greet.csproj.AssemblyReference.cache
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/obj/Debug/net6.0/greet.GeneratedMSBuildEditorConfig.editorconfig
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/obj/Debug/net6.0/greet.AssemblyInfoInputs.cache
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/obj/Debug/net6.0/greet.AssemblyInfo.cs
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/obj/Debug/net6.0/greet.csproj.CoreCompileInputs.cache
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/obj/Debug/net6.0/greet.dll
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/obj/Debug/net6.0/refint/greet.dll
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/obj/Debug/net6.0/greet.pdb
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/obj/Debug/net6.0/greet.genruntimeconfig.cache
+/home/luska/Documentos/lessionsCsharp/helloWorld/greet/obj/Debug/net6.0/ref/greet.dll
